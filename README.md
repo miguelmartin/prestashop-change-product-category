@@ -1,2 +1,2 @@
-prestashop-change-product-category
-==================================
+
+How to changue products of prestashop massively
