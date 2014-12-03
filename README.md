@@ -1,2 +1,2 @@
 
-How to changue products of prestashop massively
+How to changue products of category to prestashop massively
